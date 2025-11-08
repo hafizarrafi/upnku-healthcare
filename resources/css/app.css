@@ -1,0 +1,79 @@
+/* =========================
+   UPNKU HealthCare+ Theme
+   ========================= */
+.bg-health {
+    background-color: #0f172a; /* navy gelap */
+}
+
+.bg-health-dark {
+    background-color: #111827;
+}
+
+.brand-title {
+    font-size: 16px;
+    letter-spacing: 0.08em;
+}
+
+.logo-pill {
+    width: 30px;
+    height: 30px;
+    border-radius: 999px;
+    background: #22c55e;
+    color: #0f172a;
+    font-size: 14px;
+}
+
+.text-health-muted {
+    color: #9ca3af;
+}
+
+.navbar {
+    padding-top: 0.45rem;
+    padding-bottom: 0.45rem;
+}
+
+.navbar .nav-link {
+    font-size: 13px;
+    font-weight: 500;
+    color: #e5e7eb !important;
+}
+
+.navbar .nav-link.active,
+.navbar .nav-link:hover {
+    color: #22c55e !important;
+}
+
+.nav-auth {
+    padding-inline: 0.75rem;
+}
+
+.nav-search-wrap {
+    max-width: 260px;
+}
+
+.nav-search-input {
+    border-radius: 999px 0 0 999px !important;
+    padding-left: 14px;
+    font-size: 12px;
+}
+
+.nav-search-btn {
+    border-radius: 0 999px 999px 0 !important;
+    padding-inline: 12px;
+    font-size: 12px;
+}
+
+.btn-health {
+    background-color: #22c55e;
+    color: #0f172a;
+    border: none;
+}
+.btn-health:hover {
+    background-color: #16a34a;
+    color: #0f172a;
+}
+
+body {
+    padding-top: 70px; /* supaya konten tidak tertutup navbar */
+    background-color: #f9fafb;
+}
